@@ -6,7 +6,7 @@
 using namespace std;
 using json = nlohmann::json;
 
-const string API_KEY = "Your Github TOken"; //Github API Token
+const string API_KEY = "Your Github Token"; //Github API Token
 const string API_URL = "https://models.github.ai/inference/chat/completions";  
 
 
